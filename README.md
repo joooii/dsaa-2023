@@ -1,5 +1,5 @@
-Data Structures and Algorithm
-
+**Data Structures and Algorithm
+**
 1. LinkedList (이미지 슬라이더)
 2. BracketChecker (괄호검사기)
 3. FileSortingManager (파일 정렬 매니저)
