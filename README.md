@@ -1,4 +1,4 @@
-<h2>3-2</h2>
+<h2>3학년 2학기</h2>
 <h3>Data Structures and Algorithm</h3>
 
 1. LinkedList (이미지 슬라이더)
